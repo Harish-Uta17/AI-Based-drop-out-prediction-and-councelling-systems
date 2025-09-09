@@ -119,9 +119,13 @@ AI-based-drop-out-prediction-and-counseling-system/
 │   ├── student.js
 │   └── student.css
 │
-├── app.py               # Main backend application (Flask/FastAPI)
-├── model.py             # ML model for drop-out prediction
-├── utils.py             # Helper functions (data loading, preprocessing, etc.)
+├── app.py
+├── uploads/
+        ├── .gitkeep
+├── assignments.xlsx             # Main backend application (Flask/FastAPI)
+├── upload.xlsx            
+├── uploads.xls
+├── student_dt.csv
 ├── requirements.txt     # Project dependencies
 ├── LICENSE              # MIT License
 ├── README.md            # Project documentation
