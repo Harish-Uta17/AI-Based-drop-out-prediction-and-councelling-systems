@@ -91,7 +91,7 @@ This project aligns with the hackathon vision: **using existing data, integratin
 
 ### 👨‍💻 Contributors
 
-* Team Name: The Debug Society. (TL)
+* Team Name: The Debug Society. 
 * GitHub Repository: [AI-based-drop-out-prediction-and-counseling-system](https://github.com/MaheshReddy-ML/AI-based-drop-out-prediction-and-counseling-system)
 
 ## 📂 Project Structure
